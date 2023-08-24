@@ -59,12 +59,6 @@ To set up the project, follow these steps:
 
 The source code is developed using Eclipse and is heavily commented to enhance understanding. Each line of code that may require explanation or clarification has a corresponding comment explaining its purpose or functionality.
 
-Example:
-
-```c
-// Initialize the LCD driver
-LCD_Init();
-```
 
 ## Simulation
 
